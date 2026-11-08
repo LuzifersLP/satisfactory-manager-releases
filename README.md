@@ -9,7 +9,7 @@ Gemeinsame Spielserver und eine Teamverwaltung ermöglichen es dir, deine Planun
 > **Hinweis:** Dies ist ein inoffizielles Fanprojekt. Der Satisfactory Manager steht in keiner offiziellen Verbindung zu Coffee Stain Studios oder den Entwicklern von Satisfactory.
 
 ---
-
+ 
 ## ✨ Funktionen
 
 ### 🏭 Fabriken und Gebäude
