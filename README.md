@@ -114,6 +114,13 @@ Fehlerberichte, Verbesserungsvorschläge und Funktionswünsche sind willkommen.
 
 **Entwickler:** LuzifersLP
 
+## 📜 Datenschutz und Impressum
+
+- 🔒 [Datenschutzerklärung – Satisfactory Manager 2.0](https://github.com/LuzifersLP/satisfactory-manager-releases/blob/main/DATENSCHUTZ.md)
+- 📋 [Impressum – Florian Feldmaier (LuzifersLP)](https://luzifer-links.citrus-ant-4929.chatgpt.site/#impressum)
+- 📧 Datenschutzkontakt: luziferslp@outlook.de
+
+
 ---
 
 *Satisfactory ist ein Spiel von Coffee Stain Studios. Alle entsprechenden Marken und Spielinhalte gehören ihren jeweiligen Rechteinhabern.*
